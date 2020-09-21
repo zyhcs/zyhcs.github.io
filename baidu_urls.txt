@@ -1,3 +1,2 @@
 https://zyhcs.github.io/2020/09/16/sort-algorithms/
-https://zyhcs.github.io/2020/09/16/hexo-blog/
 https://zyhcs.github.io/2020/09/16/hello-world/
