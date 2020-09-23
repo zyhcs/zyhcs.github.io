@@ -1,25 +1,467 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>喵小帅ღ</title>
+  <title>喵小帅</title>
   
-  <subtitle>花见花开の喵小帅</subtitle>
+  <subtitle>人见人爱の喵小帅</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://zyhcs.github.io/"/>
-  <updated>2020-09-22T15:58:32.566Z</updated>
-  <id>https://zyhcs.github.io/</id>
+  <link href="http://www.zyhcs.top/"/>
+  <updated>2020-09-23T07:50:56.590Z</updated>
+  <id>http://www.zyhcs.top/</id>
   
   <author>
-    <name>ZyhCs</name>
+    <name>Zyhcs</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Java中基础技术JDBC</title>
+    <link href="http://www.zyhcs.top/2020/09/23/java-zhong-ji-chu-ji-zhu-jdbc/"/>
+    <id>http://www.zyhcs.top/2020/09/23/java-zhong-ji-chu-ji-zhu-jdbc/</id>
+    <published>2020-09-23T07:50:56.000Z</published>
+    <updated>2020-09-23T07:50:56.590Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>java中的集合框架Collection</title>
+    <link href="http://www.zyhcs.top/2020/09/23/java-zhong-de-ji-he-kuang-jia-collection/"/>
+    <id>http://www.zyhcs.top/2020/09/23/java-zhong-de-ji-he-kuang-jia-collection/</id>
+    <published>2020-09-23T07:48:18.000Z</published>
+    <updated>2020-09-23T07:48:18.346Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>程序员的神器-git</title>
+    <link href="http://www.zyhcs.top/2020/09/23/cheng-xu-yuan-de-shen-qi-git/"/>
+    <id>http://www.zyhcs.top/2020/09/23/cheng-xu-yuan-de-shen-qi-git/</id>
+    <published>2020-09-23T07:47:12.000Z</published>
+    <updated>2020-09-23T07:47:12.995Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>细说前段ui框架</title>
+    <link href="http://www.zyhcs.top/2020/09/23/xi-shuo-qian-duan-ui-kuang-jia/"/>
+    <id>http://www.zyhcs.top/2020/09/23/xi-shuo-qian-duan-ui-kuang-jia/</id>
+    <published>2020-09-23T07:44:48.000Z</published>
+    <updated>2020-09-23T07:44:48.413Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>好用的图标库</title>
+    <link href="http://www.zyhcs.top/2020/09/23/hao-yong-de-tu-biao-ku/"/>
+    <id>http://www.zyhcs.top/2020/09/23/hao-yong-de-tu-biao-ku/</id>
+    <published>2020-09-23T07:44:24.000Z</published>
+    <updated>2020-09-23T07:44:24.392Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>免费图片资源</title>
+    <link href="http://www.zyhcs.top/2020/09/23/mian-fei-tu-pian-zi-yuan/"/>
+    <id>http://www.zyhcs.top/2020/09/23/mian-fei-tu-pian-zi-yuan/</id>
+    <published>2020-09-23T07:43:36.000Z</published>
+    <updated>2020-09-23T07:43:36.068Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>typora+Snipaste+PicGo完美的写作搭配</title>
+    <link href="http://www.zyhcs.top/2020/09/23/typora-snipaste-picgo-wan-mei-de-xie-zuo-da-pei/"/>
+    <id>http://www.zyhcs.top/2020/09/23/typora-snipaste-picgo-wan-mei-de-xie-zuo-da-pei/</id>
+    <published>2020-09-23T07:41:58.000Z</published>
+    <updated>2020-09-23T07:41:58.063Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>chrome浏览器常用插件集合</title>
+    <link href="http://www.zyhcs.top/2020/09/23/chrome-liu-lan-qi-chang-yong-cha-jian-ji-he/"/>
+    <id>http://www.zyhcs.top/2020/09/23/chrome-liu-lan-qi-chang-yong-cha-jian-ji-he/</id>
+    <published>2020-09-23T07:38:55.000Z</published>
+    <updated>2020-09-23T07:38:55.396Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>利用PicGo+Gitee搭建自己的图床</title>
+    <link href="http://www.zyhcs.top/2020/09/23/li-yong-picgo-gitee-da-jian-zi-ji-de-tu-chuang/"/>
+    <id>http://www.zyhcs.top/2020/09/23/li-yong-picgo-gitee-da-jian-zi-ji-de-tu-chuang/</id>
+    <published>2020-09-23T07:37:51.000Z</published>
+    <updated>2020-09-23T07:37:51.875Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>idea开发常用的插件</title>
+    <link href="http://www.zyhcs.top/2020/09/23/idea-kai-fa-chang-yong-de-cha-jian/"/>
+    <id>http://www.zyhcs.top/2020/09/23/idea-kai-fa-chang-yong-de-cha-jian/</id>
+    <published>2020-09-23T07:36:13.000Z</published>
+    <updated>2020-09-23T07:36:13.147Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>windows下java开发环境搭建</title>
+    <link href="http://www.zyhcs.top/2020/09/23/windows-xia-java-kai-fa-huan-jing-da-jian/"/>
+    <id>http://www.zyhcs.top/2020/09/23/windows-xia-java-kai-fa-huan-jing-da-jian/</id>
+    <published>2020-09-23T07:35:35.000Z</published>
+    <updated>2020-09-23T07:35:35.409Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>linux下java开发环境搭建</title>
+    <link href="http://www.zyhcs.top/2020/09/23/linux-xia-java-kai-fa-huan-jing-da-jian/"/>
+    <id>http://www.zyhcs.top/2020/09/23/linux-xia-java-kai-fa-huan-jing-da-jian/</id>
+    <published>2020-09-23T07:35:13.000Z</published>
+    <updated>2020-09-23T15:04:31.039Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mysql下载安装</title>
+    <link href="http://www.zyhcs.top/2020/09/23/mysql-xia-zai-an-zhuang/"/>
+    <id>http://www.zyhcs.top/2020/09/23/mysql-xia-zai-an-zhuang/</id>
+    <published>2020-09-23T07:34:35.000Z</published>
+    <updated>2020-09-23T07:34:35.698Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>redis安装</title>
+    <link href="http://www.zyhcs.top/2020/09/23/redis-an-zhuang/"/>
+    <id>http://www.zyhcs.top/2020/09/23/redis-an-zhuang/</id>
+    <published>2020-09-23T07:33:58.000Z</published>
+    <updated>2020-09-23T07:33:58.657Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>linux入门</title>
+    <link href="http://www.zyhcs.top/2020/09/23/linux-ru-men/"/>
+    <id>http://www.zyhcs.top/2020/09/23/linux-ru-men/</id>
+    <published>2020-09-23T07:32:48.000Z</published>
+    <updated>2020-09-23T07:32:48.707Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>nginx学习</title>
+    <link href="http://www.zyhcs.top/2020/09/23/nginx-xue-xi/"/>
+    <id>http://www.zyhcs.top/2020/09/23/nginx-xue-xi/</id>
+    <published>2020-09-23T07:32:20.000Z</published>
+    <updated>2020-09-23T07:32:20.526Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客优化</title>
+    <link href="http://www.zyhcs.top/2020/09/23/hexo-bo-ke-you-hua/"/>
+    <id>http://www.zyhcs.top/2020/09/23/hexo-bo-ke-you-hua/</id>
+    <published>2020-09-23T07:31:15.000Z</published>
+    <updated>2020-09-23T07:31:15.139Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>在服务器部署Hexo博客</title>
-    <link href="https://zyhcs.github.io/2020/09/22/zai-fu-wu-qi-bu-shu-hexo-bo-ke/"/>
-    <id>https://zyhcs.github.io/2020/09/22/zai-fu-wu-qi-bu-shu-hexo-bo-ke/</id>
+    <link href="http://www.zyhcs.top/2020/09/22/zai-fu-wu-qi-bu-shu-hexo-bo-ke/"/>
+    <id>http://www.zyhcs.top/2020/09/22/zai-fu-wu-qi-bu-shu-hexo-bo-ke/</id>
     <published>2020-09-22T15:58:32.000Z</published>
     <updated>2020-09-22T15:58:32.566Z</updated>
     
@@ -44,8 +486,8 @@
   
   <entry>
     <title>十大经典排序算法整理汇总（附代码）</title>
-    <link href="https://zyhcs.github.io/2020/09/16/sort-algorithms/"/>
-    <id>https://zyhcs.github.io/2020/09/16/sort-algorithms/</id>
+    <link href="http://www.zyhcs.top/2020/09/16/sort-algorithms/"/>
+    <id>http://www.zyhcs.top/2020/09/16/sort-algorithms/</id>
     <published>2020-09-16T07:09:23.000Z</published>
     <updated>2020-09-17T08:33:52.388Z</updated>
     
@@ -61,23 +503,23 @@
     
     </summary>
     
-      <category term="编程算法" scheme="https://zyhcs.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+      <category term="编程算法" scheme="http://www.zyhcs.top/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="java" scheme="https://zyhcs.github.io/tags/java/"/>
+      <category term="java" scheme="http://www.zyhcs.top/tags/java/"/>
     
-      <category term="leetcode" scheme="https://zyhcs.github.io/tags/leetcode/"/>
+      <category term="leetcode" scheme="http://www.zyhcs.top/tags/leetcode/"/>
     
-      <category term="算法" scheme="https://zyhcs.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="http://www.zyhcs.top/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="排序" scheme="https://zyhcs.github.io/tags/%E6%8E%92%E5%BA%8F/"/>
+      <category term="排序" scheme="http://www.zyhcs.top/tags/%E6%8E%92%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zyhcs.github.io/2020/09/16/hello-world/"/>
-    <id>https://zyhcs.github.io/2020/09/16/hello-world/</id>
+    <link href="http://www.zyhcs.top/2020/09/16/hello-world/"/>
+    <id>http://www.zyhcs.top/2020/09/16/hello-world/</id>
     <published>2020-09-16T06:44:27.167Z</published>
     <updated>2020-09-16T06:44:27.167Z</updated>
     
