@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.zyhcs.top/friends/index.html</loc>
+    
+    <lastmod>2020-09-23T15:38:17.980Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.zyhcs.top/about/index.html</loc>
     
     <lastmod>2020-09-23T15:30:08.064Z</lastmod>
@@ -159,13 +166,6 @@
     <loc>http://www.zyhcs.top/tags/index.html</loc>
     
     <lastmod>2020-09-16T09:27:23.146Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.zyhcs.top/friends/index.html</loc>
-    
-    <lastmod>2020-09-16T09:27:03.291Z</lastmod>
     
   </url>
   
