@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.zyhcs.top/friends/index.html</loc>
+    
+    <lastmod>2020-10-12T09:43:35.740Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.zyhcs.top/2020/05/16/sort-algorithms/</loc>
     
     <lastmod>2020-10-04T05:25:38.819Z</lastmod>
@@ -138,13 +145,6 @@
     <loc>http://www.zyhcs.top/about/index.html</loc>
     
     <lastmod>2020-09-29T02:39:32.931Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.zyhcs.top/friends/index.html</loc>
-    
-    <lastmod>2020-09-23T15:38:17.980Z</lastmod>
     
   </url>
   

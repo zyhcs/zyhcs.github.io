@@ -80,9 +80,9 @@
     
       <category term="plugin" scheme="http://www.zyhcs.top/tags/plugin/"/>
     
-      <category term="idea" scheme="http://www.zyhcs.top/tags/idea/"/>
-    
       <category term="java" scheme="http://www.zyhcs.top/tags/java/"/>
+    
+      <category term="idea" scheme="http://www.zyhcs.top/tags/idea/"/>
     
       <category term="开发工具" scheme="http://www.zyhcs.top/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
@@ -116,13 +116,13 @@
     
       <category term="linux" scheme="http://www.zyhcs.top/tags/linux/"/>
     
-      <category term="redis" scheme="http://www.zyhcs.top/tags/redis/"/>
-    
       <category term="windows" scheme="http://www.zyhcs.top/tags/windows/"/>
     
       <category term="下载" scheme="http://www.zyhcs.top/tags/%E4%B8%8B%E8%BD%BD/"/>
     
       <category term="安装" scheme="http://www.zyhcs.top/tags/%E5%AE%89%E8%A3%85/"/>
+    
+      <category term="redis" scheme="http://www.zyhcs.top/tags/redis/"/>
     
   </entry>
   
@@ -234,13 +234,13 @@
     
       <category term="linux" scheme="http://www.zyhcs.top/tags/linux/"/>
     
+      <category term="mysql" scheme="http://www.zyhcs.top/tags/mysql/"/>
+    
       <category term="windows" scheme="http://www.zyhcs.top/tags/windows/"/>
     
       <category term="下载" scheme="http://www.zyhcs.top/tags/%E4%B8%8B%E8%BD%BD/"/>
     
       <category term="安装" scheme="http://www.zyhcs.top/tags/%E5%AE%89%E8%A3%85/"/>
-    
-      <category term="mysql" scheme="http://www.zyhcs.top/tags/mysql/"/>
     
   </entry>
   
@@ -344,11 +344,11 @@
     
       <category term="picgo" scheme="http://www.zyhcs.top/tags/picgo/"/>
     
-      <category term="image" scheme="http://www.zyhcs.top/tags/image/"/>
-    
       <category term="gitee" scheme="http://www.zyhcs.top/tags/gitee/"/>
     
       <category term="图床" scheme="http://www.zyhcs.top/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+      <category term="image" scheme="http://www.zyhcs.top/tags/image/"/>
     
   </entry>
   

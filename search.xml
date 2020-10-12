@@ -53,9 +53,9 @@
             
             <tag> plugin </tag>
             
-            <tag> idea </tag>
-            
             <tag> java </tag>
+            
+            <tag> idea </tag>
             
             <tag> 开发工具 </tag>
             
@@ -84,13 +84,13 @@
             
             <tag> linux </tag>
             
-            <tag> redis </tag>
-            
             <tag> windows </tag>
             
             <tag> 下载 </tag>
             
             <tag> 安装 </tag>
+            
+            <tag> redis </tag>
             
         </tags>
       
@@ -187,13 +187,13 @@
             
             <tag> linux </tag>
             
+            <tag> mysql </tag>
+            
             <tag> windows </tag>
             
             <tag> 下载 </tag>
             
             <tag> 安装 </tag>
-            
-            <tag> mysql </tag>
             
         </tags>
       
@@ -282,11 +282,11 @@
             
             <tag> picgo </tag>
             
-            <tag> image </tag>
-            
             <tag> gitee </tag>
             
             <tag> 图床 </tag>
+            
+            <tag> image </tag>
             
         </tags>
       
