@@ -42,9 +42,9 @@
       <category term="java" scheme="http://www.zyhcs.top/categories/java/"/>
     
     
-      <category term="java" scheme="http://www.zyhcs.top/tags/java/"/>
-    
       <category term="jdbc" scheme="http://www.zyhcs.top/tags/jdbc/"/>
+    
+      <category term="java" scheme="http://www.zyhcs.top/tags/java/"/>
     
       <category term="database" scheme="http://www.zyhcs.top/tags/database/"/>
     
@@ -78,9 +78,9 @@
       <category term="开发工具" scheme="http://www.zyhcs.top/categories/plugin/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="plugin" scheme="http://www.zyhcs.top/tags/plugin/"/>
-    
       <category term="java" scheme="http://www.zyhcs.top/tags/java/"/>
+    
+      <category term="plugin" scheme="http://www.zyhcs.top/tags/plugin/"/>
     
       <category term="idea" scheme="http://www.zyhcs.top/tags/idea/"/>
     
@@ -154,11 +154,11 @@
       <category term="博客" scheme="http://www.zyhcs.top/categories/hexo/%E5%8D%9A%E5%AE%A2/"/>
     
     
+      <category term="linux" scheme="http://www.zyhcs.top/tags/linux/"/>
+    
       <category term="hexo" scheme="http://www.zyhcs.top/tags/hexo/"/>
     
       <category term="博客" scheme="http://www.zyhcs.top/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-      <category term="linux" scheme="http://www.zyhcs.top/tags/linux/"/>
     
       <category term="服务器部署" scheme="http://www.zyhcs.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2/"/>
     
@@ -342,13 +342,13 @@
       <category term="gitee" scheme="http://www.zyhcs.top/categories/gitee/"/>
     
     
+      <category term="image" scheme="http://www.zyhcs.top/tags/image/"/>
+    
       <category term="picgo" scheme="http://www.zyhcs.top/tags/picgo/"/>
     
       <category term="gitee" scheme="http://www.zyhcs.top/tags/gitee/"/>
     
       <category term="图床" scheme="http://www.zyhcs.top/tags/%E5%9B%BE%E5%BA%8A/"/>
-    
-      <category term="image" scheme="http://www.zyhcs.top/tags/image/"/>
     
   </entry>
   
