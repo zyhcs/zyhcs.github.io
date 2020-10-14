@@ -378,9 +378,9 @@
       <category term="gitee" scheme="http://www.zyhcs.top/categories/gitee/"/>
     
     
-      <category term="image" scheme="http://www.zyhcs.top/tags/image/"/>
-    
       <category term="picgo" scheme="http://www.zyhcs.top/tags/picgo/"/>
+    
+      <category term="image" scheme="http://www.zyhcs.top/tags/image/"/>
     
       <category term="gitee" scheme="http://www.zyhcs.top/tags/gitee/"/>
     
@@ -626,9 +626,9 @@
     
       <category term="java" scheme="http://www.zyhcs.top/tags/java/"/>
     
-      <category term="windows" scheme="http://www.zyhcs.top/tags/windows/"/>
-    
       <category term="环境搭建" scheme="http://www.zyhcs.top/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="windows" scheme="http://www.zyhcs.top/tags/windows/"/>
     
   </entry>
   
